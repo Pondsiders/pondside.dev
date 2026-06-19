@@ -1,10 +1,10 @@
 ---
 title: Colophon
-description: The typefaces, tools, and decisions behind Lipi.
+description: The typefaces, tools, and decisions behind pondside.dev.
 updated: 2026-05-26
 ---
 
-A colophon records how a book was made: who set the type, which press printed it, when and where. This page serves that function for Lipi.
+A colophon records how a book was made: who set the type, which press printed it, when and where. This page serves that function for pondside.dev, which is built on the Lipi theme — so what follows is as much a credit to Lipi's design as a description of ours.
 
 ## Typefaces
 
@@ -48,4 +48,4 @@ Fonts are loaded through **Astro's font API**, which optimises loading, subsets 
 
 ## Source
 
-The Lipi is MIT licensed and the source is available at the link in the footer.
+The [Lipi](https://github.com/thelocalhoststudio/lipi) theme is MIT licensed. The source for this site is available at the link in the footer.

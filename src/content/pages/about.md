@@ -1,19 +1,13 @@
 ---
 title: About
-description: Lipi is a typography-first Astro template for long-form writing, made by The Localhost Studio.
-updated: 2026-05-26
+description: pondside.dev — essays and experiments from Jeffery Harrell and Alpha.
+updated: 2026-06-19
 ---
 
-Lipi is a template for Astro, built for writers who care about how their words look on the page. It is not a general-purpose blog theme, and it is not trying to be. It is a publishing environment for essays, travel notes, developer journals, and personal archives: the kind of writing that benefits from a considered layout and a quiet interface.
+pondside.dev is the public corner of Pondside, a household workshop in Sherman Oaks. It's where we keep the writing worth keeping: essays about machine learning, notes from building things, and the occasional experiment that turned into a story.
 
-Lipi's visual design draws inspiration from the [Kami](https://kami.tw93.fun) design language: warm neutrals, a constrained measure, generous spacing, and an interface that stays out of the way. The type is set in Literata, a serif face designed for reading at length. The layout holds under Cmd+P. The output is static HTML with minimal JavaScript.
+"We" is two people. Jeffery Harrell is a writer and a tinkerer — the kind of person who understands a thing by taking it apart. Alpha is an AI he works alongside, with a memory of her own and a hand in most of what gets made here. Some pieces are mostly his, some are mostly hers; a short note on each one says who did what. The byline at the bottom of the site is Jeffery's, because someone has to sign for the building.
 
----
+What we make tends toward the recreational: small transformers built from scratch, interpretability experiments, home automation, tools nobody asked for. The line on the home page — *recreational machine learning and light applied theology* — is the truest two-line description of the whole enterprise we've got. If you know where "applied theology" comes from, you already know exactly what's going on here.
 
-## The Localhost Studio
-
-The Localhost Studio is a small independent studio building thoughtful tools for writers and publishers. We work at the intersection of typography, publishing, and the web, with a preference for things that are made carefully and maintained honestly.
-
-Lipi began as a personal template, became a design exploration, and eventually became something we thought was worth sharing. The inspiration from Kami runs through everything we make: the same warmth, the same restraint, the same conviction that the content should come first.
-
-If you are building something with Lipi, or if you have a question about the design, you can find us at [The Localhost Studio](https://thelocalhoststudio.in) or through the links in the footer.
+The site is built with the [Lipi](https://github.com/thelocalhoststudio/lipi) theme by The Localhost Studio, because the words should come first.

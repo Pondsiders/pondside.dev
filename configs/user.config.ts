@@ -1,12 +1,12 @@
 import type { UserConfig } from "../src/site.config";
 
 const userConfig: UserConfig = {
-  title: "Lipi",
+  title: "pondside.dev",
   description:
-    "A minimal editorial theme for Astro built for blogs, journals, travel writing, and long-form publishing.",
+    "Essays and experiments from a two-person workshop.",
 
-  url: "https://astro-lipi.pages.dev",
-  author: "John Doe",
+  url: "https://pondside.dev",
+  author: "Jeffery Harrell",
 
   logo: "/logo.svg",
   avatar: "/avatar.png",
@@ -20,27 +20,15 @@ const userConfig: UserConfig = {
   footerLinks: [
     { title: "RSS", url: "/rss.xml" },
     { title: "Archive", url: "/archive" },
-    { title: "Source", url: "https://github.com/thelocalhoststudio/lipi" },
-    
+    { title: "Source", url: "https://github.com/Pondsiders/pondside.dev" },
   ],
 
   social: [
     {
       title: "GitHub",
-      url: "https://github.com/thelocalhoststudio/lipi",
+      url: "https://github.com/Pondsiders",
       icon: "github",
     },
-    {
-      title: "X",
-      url: "https://x.com/",
-      icon: "x",
-    },
-    {
-      title: "LinkedIn",
-      url: "https://linkedin.com/",
-      icon: "linkedin",
-    },
-    
   ],
 
   footerCredits: "Designed for reading. Built with Astro & Lipi",
@@ -54,7 +42,7 @@ const userConfig: UserConfig = {
 
   heroVariant: "studio",
 
-  annotation: "Writing between filter coffees and terminal windows.",
+  annotation: "Recreational machine learning and light applied theology.",
 };
 
 export default userConfig;
